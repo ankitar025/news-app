@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Pig on the loose leads to comical police chase",
+        "description": "Officers received a call about a pig running around and that's where the fun begins.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66137013",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C3C0/production/_130321105_p0fzm084.jpg",
+        "publishedAt": "2023-07-07T15:22:16.5929642Z",
+        "content": "Pig on the loose leads to comical police chase. Video, 00:00:25Pig on the loose leads to comical police chase"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Elle Edwards murder: Connor Chapman to serve minimum 48 years for her murder",
+        "description": "The 26-year-old victim's family say they hope gunman Connor Chapman \"never sees Christmas again\".",
+        "url": "http://www.bbc.co.uk/news/live/uk-66127866",
+        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+        "publishedAt": "2023-07-07T15:07:23.7648602Z",
+        "content": "\"He has never met one of his children, Rhind continues, referring to Connor Chapman.\r\nElle's father Tim Edwards sits in the dock, chewing his fingernails, and stares down at the ground. \r\nA family li… [+686 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "The simple ways cities can adapt to heatwaves",
+        "description": "Satellite images reveal how green spaces, white roads and water features are helping keep cities cool during deadly heatwaves.",
+        "url": "https://www.bbc.com/future/article/20230706-the-simple-ways-cities-can-adapt-to-heatwaves",
+        "urlToImage": "https://ychef.files.bbci.co.uk/live/624x351/p0fz8v5q.jpg",
+        "publishedAt": "2023-07-07T15:07:20.2794885Z",
+        "content": "Planning officials have been forced to think outside the box when it comes to innovative ways to combat the heat. Paris, where citizens have the highest risk of heat-related deaths in Europe, has cre… [+2261 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Yellen criticises Chinese curbs against US firms",
+        "description": "The US Treasury Secretary said decoupling the world’s two largest economies would destabilise the global economy.",
+        "url": "http://www.bbc.co.uk/news/world-asia-china-66130073",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4AED/production/_130318191_yellen-index-reuters.jpg",
+        "publishedAt": "2023-07-07T14:52:19.2957675Z",
+        "content": "US Treasury Secretary Janet Yellen criticised Chinese curbs against US firms while on a diplomatic visit to Beijing to improve bilateral ties. \r\nWashington and its allies will fight back against Beij… [+3210 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Threads: Twitter threatens legal action over Meta's new app",
+        "description": "Its owner Elon Musk says \"competition is fine, cheating is not\" a day after the rival app launched.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66129215",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69A1/production/_130314072_gettyimages-1508076608.jpg",
+        "publishedAt": "2023-07-07T13:22:24.8142988Z",
+        "content": "Twitter is considering legal action against Meta over its fast-growing rival app Threads.\r\nThreads, which was launched to millions on Wednesday, is similar to Twitter and has been pitched by Meta bos… [+3972 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Jobs growth slows in US as borrowing costs climb",
+        "description": "Employers add 209,000 jobs in June - the smallest number in more than two years.",
+        "url": "http://www.bbc.co.uk/news/business-66135199",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E87/production/_130319323_whatsubject.jpg",
+        "publishedAt": "2023-07-07T13:07:21.5604821Z",
+        "content": "US jobs growth slowed last month in a sign that the weight of higher interest rates may be starting to slow the world's largest economy.\r\nEmployers added 209,000 jobs in June, the smallest gain in mo… [+253 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US plans to send controversial cluster munitions to Ukraine- reports",
+        "description": "The controversial weapons package comes amid an ammunition shortage in Ukraine.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-66134663",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A523/production/_130257224_gettyimages-1509464154.jpg",
+        "publishedAt": "2023-07-07T12:37:22.3736775Z",
+        "content": "The US is planning to send Ukraine a cluster munitions package to help in its counteroffensive against Russia, US media reports. \r\nUkraine has been asking for the weapons for months amid an ammunitio… [+1726 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Bruce Springsteen settles an old score in Hyde Park",
+        "description": "The star returns to the London venue for the first time since organisers cut off his set in 2012.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-66131282",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1019F/production/_130315956_gettyimages-1520422497.jpg",
+        "publishedAt": "2023-07-07T12:07:22.0771125Z",
+        "content": "When Bruce Springsteen last played in Hyde Park, he overshot the curfew and had the power cut as he stood on stage with Paul McCartney playing a brace of Beatles covers.\r\nIt didn't go down well. \r\nSp… [+6259 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine war: Front line troops discuss counter-offensive",
+        "description": "Will Russia's defences shatter or hold firm? The BBC gets the view from the front line.",
+        "url": "http://www.bbc.co.uk/news/world-europe-66121584",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1680/production/_130306750_photo2023-07-05145400.jpg",
+        "publishedAt": "2023-07-07T05:22:17.6551728Z",
+        "content": "As the anaesthetic began to wear off, the Ukrainian soldier - a scrawny, mud-flecked 19-year-old - let out a low wail in the back of the ambulance, then fumbled with his oxygen mask and swore as he m… [+6390 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Amazon deforestation down by a third in 2023, says Brazilian government",
+        "description": "Authorities say it dropped by 33.6% from January-July compared with the same period last year.",
+        "url": "http://www.bbc.co.uk/news/world-latin-america-66129200",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/169E1/production/_130314629_gettyimages-1165658766.jpg",
+        "publishedAt": "2023-07-07T05:07:17.405574Z",
+        "content": "Deforestation in Brazil's Amazon fell by 33.6% in the first six months of President Luiz Inácio Lula da Silva's term compared with the same period in 2022, the government says.\r\nIts suggests the rain… [+2544 chars]"
+      }
+    ]
+  }
